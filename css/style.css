@@ -1,0 +1,20 @@
+.one
+{
+    color: blue;
+}
+.two{
+    color: brown;
+} 
+h1{
+    color: yellowgreen;
+}
+label{
+    color: rgb(109, 54, 54);
+}
+input {
+    color: aqua;
+}
+body
+{
+    background-color: yellowgreen;
+}
